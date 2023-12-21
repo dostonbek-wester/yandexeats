@@ -9,7 +9,7 @@ const Home = () => {
   return (
     <div className='navbar'>
 
-      <div className='Navbar'>
+      <div className='Navbar' >
 
         <div className='d-flex'>
 

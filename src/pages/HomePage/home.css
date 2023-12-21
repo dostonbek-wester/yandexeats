@@ -8,7 +8,8 @@
     width: 100%;
     height: 100px;
     background-color: #FFE133;
-
+    display: flex;
+    justify-content: center;
 }
 
 .Swipper {
